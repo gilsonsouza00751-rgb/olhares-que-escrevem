@@ -1,17 +1,16 @@
-# Olhares que Escrevem
+# Olhares que Escrevem — Versão 2
 
-Site oficial do projeto **Olhares que Escrevem** — literatura, fotografia e educação do olhar.
+Atualização do site mantendo a identidade visual original.
 
-## Arquivos
-- `index.html` — página principal
-- `style.css` — identidade visual e responsividade
-- `script.js` — menu mobile e ano automático
+## Alterações
+- Logo da coruja com fundo transparente no cabeçalho e rodapé.
+- Fotografias reais do projeto nas seções O projeto e Oficinas.
+- Galeria "Imagens do olhar" com fotografias analógicas.
+- Três páginas de textos: O Ônibus, Fotografia e Como é ler como um escritor?
+- E-mail de contato atualizado.
+- Favicon com a coruja.
 
-## Publicação
-Este pacote foi preparado para publicação gratuita via GitHub Pages.
-
-## Próximos ajustes
-- Substituir o e-mail de exemplo pelo e-mail oficial.
-- Inserir fotografias reais do projeto.
-- Criar páginas individuais para textos, oficinas e galeria.
-- Conectar o domínio `olharesqueescrevem.com.br`.
+## Importante sobre os textos
+A página de **O Ônibus** inclui apenas um trecho inicial e um link para a versão publicada no Substack.
+As páginas **Fotografia** e **Como é ler como um escritor?** estão prontas para receber o texto integral.
+Para migrar os textos integralmente e preservar a versão autoral exata, use arquivos/exportações fornecidos pelo autor.
